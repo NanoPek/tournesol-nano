@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "better_habits.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

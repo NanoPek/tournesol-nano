@@ -1,0 +1,31 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "An error has occurred, open the app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur est survenue, ouvrez l'app."
+          }
+        }
+      }
+    },
+    "Open a Video details" : {
+
+    },
+    "Opens a Video details in app." : {
+
+    },
+    "Recommand a video" : {
+
+    },
+    "Video" : {
+
+    },
+    "We will recommand you an interesting video every day, directly from your Home Screen!" : {
+
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,851 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld views" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld vues"
+          }
+        }
+      }
+    },
+    "A day ago" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis un jour"
+          }
+        }
+      }
+    },
+    "A month ago" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis un mois"
+          }
+        }
+      }
+    },
+    "A week ago" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis une semaine"
+          }
+        }
+      }
+    },
+    "A year ago" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis un an"
+          }
+        }
+      }
+    },
+    "Advanced comparison" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparaison avancée"
+          }
+        }
+      }
+    },
+    "After watching a video, directly compare it to others you've seen. Help the community curate better content!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Après avoir regardé une vidéo, compare-la directement avec d'autres que tu as déjà vues et aide la communauté !"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout"
+          }
+        }
+      }
+    },
+    "All time" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis toujours"
+          }
+        }
+      }
+    },
+    "All Videos" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toutes les Vidéos"
+          }
+        }
+      }
+    },
+    "An error has occurred!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur est survenue!"
+          }
+        }
+      }
+    },
+    "An unknown Error occured." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur inconnue est survenue."
+          }
+        }
+      }
+    },
+    "Are you sure you want to delete your account?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir supprimer votre compte?"
+          }
+        }
+      }
+    },
+    "Auto" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
+          }
+        }
+      }
+    },
+    "Check your credentials and retry." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifie tes identifiants et réessaye."
+          }
+        }
+      }
+    },
+    "Clear & pedagogical" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clair & pédagogique"
+          }
+        }
+      }
+    },
+    "Compare" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparer"
+          }
+        }
+      }
+    },
+    "Compare now" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparer !"
+          }
+        }
+      }
+    },
+    "Compare videos" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparer les vidéos"
+          }
+        }
+      }
+    },
+    "Compare Videos Easily" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare facilement les vidéos"
+          }
+        }
+      }
+    },
+    "comparisons by" : {
+      "comment" : "Hand made",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "comparaisons par"
+          }
+        }
+      }
+    },
+    "contributors" : {
+      "comment" : "Hand made",
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "contributeurs"
+          }
+        }
+      }
+    },
+    "Could not find any videos." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune vidéo correspondante"
+          }
+        }
+      }
+    },
+    "Delete my account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer mon compte"
+          }
+        }
+      }
+    },
+    "Disconnected" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déconnecté"
+          }
+        }
+      }
+    },
+    "Discover collaborative content recommendations tailored to your interests." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvre des recommandations collaboratives de contenu adaptées à tes intérêts."
+          }
+        }
+      }
+    },
+    "Diveristy & inclusion" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diversité & inclusion"
+          }
+        }
+      }
+    },
+    "Encourages better habits" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encourage de meilleures habitudes"
+          }
+        }
+      }
+    },
+    "Engaging & thought-provoking" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stimulant & suscite la réflexion"
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anglais"
+          }
+        }
+      }
+    },
+    "Enjoy all community-recommended videos directly on the app, ad-free!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profite de toutes les vidéos recommandées par la communauté directement sur l'application, sans publicités !"
+          }
+        }
+      }
+    },
+    "Entertaining & relaxing" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Divertissant & relaxant"
+          }
+        }
+      }
+    },
+    "Filter" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrer"
+          }
+        }
+      }
+    },
+    "French" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Français"
+          }
+        }
+      }
+    },
+    "Get Video Recommendations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Des centaines de recommandations vidéo"
+          }
+        }
+      }
+    },
+    "Important & actionable" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Important & actionnable"
+          }
+        }
+      }
+    },
+    "Invalid credentials given." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identifiants incorrects."
+          }
+        }
+      }
+    },
+    "Invalid URL." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL non valide."
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Langue"
+          }
+        }
+      }
+    },
+    "Layman-friendly" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accessible aux non-spécialistes"
+          }
+        }
+      }
+    },
+    "Let's Start!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C'est parti !"
+          }
+        }
+      }
+    },
+    "Log in" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se connecter"
+          }
+        }
+      }
+    },
+    "Log in to see your comparisons!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecte-toi pour voir tes comparaisons!"
+          }
+        }
+      }
+    },
+    "Log In to your Tournesol Account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecte-toi à ton compte Tournesol"
+          }
+        }
+      }
+    },
+    "Logout" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se déconnecter"
+          }
+        }
+      }
+    },
+    "More details" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus de détails"
+          }
+        }
+      }
+    },
+    "My comparisons" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes comparaisons"
+          }
+        }
+      }
+    },
+    "My Profile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon Profil"
+          }
+        }
+      }
+    },
+    "My rate later list" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À comparer plus tard"
+          }
+        }
+      }
+    },
+    "My recommendations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes recommendations"
+          }
+        }
+      }
+    },
+    "Open a Video details" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir les détails d'une Vidéo"
+          }
+        }
+      }
+    },
+    "Open in Youtube" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir sur YouTube"
+          }
+        }
+      }
+    },
+    "Opens a Video details in app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvre les détails d'une Vidéo."
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mot de passe"
+          }
+        }
+      }
+    },
+    "Rate later" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À comparer plus tard"
+          }
+        }
+      }
+    },
+    "Rated high:" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noté haut:"
+          }
+        }
+      }
+    },
+    "Rated low:" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noté bas:"
+          }
+        }
+      }
+    },
+    "Recommendations" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommandations"
+          }
+        }
+      }
+    },
+    "Reliable & not missleading" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fiable & non trompeur"
+          }
+        }
+      }
+    },
+    "Remove from rate later" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne plus comparer plus tard"
+          }
+        }
+      }
+    },
+    "Resilience to backfiring risks" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Résistant aux retours négatifs"
+          }
+        }
+      }
+    },
+    "Scores per criterion" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scores par critère"
+          }
+        }
+      }
+    },
+    "Should be largely recommended" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devrait être largement recommandé"
+          }
+        }
+      }
+    },
+    "Sign Up" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créer son compte"
+          }
+        }
+      }
+    },
+    "Sort by..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trier par…"
+          }
+        }
+      }
+    },
+    "Submit a comparison" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparer"
+          }
+        }
+      }
+    },
+    "Successful comparison ✅, thank you!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparaison envoyée ✅, merci!"
+          }
+        }
+      }
+    },
+    "The video is already in your rate later list." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La vidéo se trouve déjà dans votre liste."
+          }
+        }
+      }
+    },
+    "Uploaded..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mises en lignes…"
+          }
+        }
+      }
+    },
+    "Username" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom d’utilisateur"
+          }
+        }
+      }
+    },
+    "Video" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidéo"
+          }
+        }
+      }
+    },
+    "Video A" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidéo A"
+          }
+        }
+      }
+    },
+    "Video B" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidéo B"
+          }
+        }
+      }
+    },
+    "Video Details" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détails"
+          }
+        }
+      }
+    },
+    "View and edit your rate later list, comparison history, and more!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consulte et modifie ta liste de vidéos à voir, ton historique de comparaison, et plus encore !"
+          }
+        }
+      }
+    },
+    "Watch YouTube on the App" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regarde YouTube sur l'application"
+          }
+        }
+      }
+    },
+    "Welcome to Tournesol Nano!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenue sur Tournesol Nano !"
+          }
+        }
+      }
+    },
+    "Welcome to your profile!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenue sur ton profil!"
+          }
+        }
+      }
+    },
+    "Yes, delete my account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oui, supprimer mon compte"
+          }
+        }
+      }
+    },
+    "You will be redirected to the Tournesol website to delete your account." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous allez être redirigé sur le site web Tournesol pour supprimer votre compte."
+          }
+        }
+      }
+    },
+    "You're disconnected." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu es déconnecté."
+          }
+        }
+      }
+    },
+    "You're not logged in." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu n'est pas connecté."
+          }
+        }
+      }
+    },
+    "YouTube player couldn't be loaded" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le player YouTube n’a pas pu être chargé"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
