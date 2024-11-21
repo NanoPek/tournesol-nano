@@ -21,6 +21,8 @@
 </p>
 
 <p align="center">
+  <a href="https://apps.apple.com/fr/app/tournesol-nano/id6737498377">Download the App!</a>
+  ·
   <a href="https://jecarrez.notion.site/Tournesol-Nano-iOS-App-130b5c298e9880fa9e26ff44099b8757?pvs=4">Give feedback!</a>
   ·
   <a href="https://jecarrez.vercel.app/">My Portfolio 🧑‍🎨</a>
