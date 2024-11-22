@@ -1,6 +1,6 @@
 # Licenses
 
-In order to share knowledge while maintaining control over distribution, this Tournesol Nano iOS application is distributed under a custom license for non-commercial, personal use.
+The different part of the Tournesol Nano iOS application are distributed under different licenses.
 
 We pledge to respect users freedom by using [Free/Libre licenses][gnu-freesoftware] for our source code. When using Creative Commons licenses, we seek to use licenses [approved for Free Cultural Works][cc-freeculturalworks] as much as possible.
 
@@ -22,6 +22,26 @@ The included assets are sourced from the Tournesol Public Repository and are ava
 
 See the Tournesol [README](https://github.com/tournesol-app/tournesol/tree/main/frontend#tournesol-criteria-icons) for more information.
 
+### Tournesol criteria icons
+
+CC BY 4.0
+
+Copyright Association Tournesol - Author Chris Vossen
+
+See the full legal code [CC BY 4.0][CC-BY-4.0], and the original work [here] [tournesol-frontend-readme]
+
+Affected materials:
+
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/backfire_risk.imageset/backfire_risk.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/better_habits.imageset/better_habits.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/diversity_inclusion.imageset/diversity_inclusion.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/engaging.imageset/engaging.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/entertaining_relaxing.imageset/entertaining_relaxing.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/importance.imageset/importance.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/largely_recommended.imageset/largely_recommended.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/pedagogy.imageset/pedagogy.svg
+    DesignSystem/Resources/Assets/Assets.xcassets/criterialIcons/reliability.imageset/reliability.svg
+
 [gnu-agpl-3.0]: https://www.gnu.org/licenses/agpl-3.0.en.html
 [gnu-freesoftware]: https://www.gnu.org/philosophy/free-sw.en.html
 
@@ -29,6 +49,9 @@ See the Tournesol [README](https://github.com/tournesol-app/tournesol/tree/main/
 [cc0-1.0-full-legalcode]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 [cc-freeculturalworks]: https://creativecommons.org/share-your-work/public-domain/freeworks/
+[CC-BY-4.0]: https://creativecommons.org/licenses/by/4.0/
 
 [odc-by-1.0-disclaimer]: https://opendatacommons.org/licenses/by/summary/
 [odc-by-1.0-fulllegalcode]: https://opendatacommons.org/licenses/by/1-0/
+
+[tournesol-frontend-readme]: https://github.com/tournesol-app/tournesol/blob/633184fce87ea42e8767b3f5fe0d2c8340a97d1b/frontend/README.md=
